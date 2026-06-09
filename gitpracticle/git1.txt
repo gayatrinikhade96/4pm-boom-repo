@@ -1,0 +1,2 @@
+hii guyes i am practicing git today. did you practice or what here git init is importatnt command we must run it first then our file we can push in working directory.
+after that we use command git add. to push file into staging area.we have commit command to show msg or you can understand what you did in this file
